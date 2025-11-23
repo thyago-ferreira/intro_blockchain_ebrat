@@ -1,2 +1,2 @@
 # intro_blockchain_ebrat
-Codigo utilizado para a matéria de introdução a blockchain. A aplicação é simples e funciona para validar qualquer tipo de arquivo.
+Code used for the introduction to blockchain material. The application is simple and works to validate any type of file.
